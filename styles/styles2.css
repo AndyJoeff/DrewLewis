@@ -897,7 +897,7 @@ img {
 
 @media (max-width: 480px) {
   .hero__title {
-    font-size: var(--fs-4xl);
+    font-size: var(--fs-3xl);
   }
   
   .hero__description {
@@ -3504,6 +3504,7 @@ img {
       padding-top: 120px;
     }
 }
+
 
 
 
