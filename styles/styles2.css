@@ -800,6 +800,8 @@ img {
   .service-tag--1 {
     top: 10%;
     left: 5%;
+    top: 5%;
+    left: -5%;
   }
   
   .service-tag--2 {
@@ -3510,6 +3512,7 @@ img {
       padding-top: 120px;
     }
 }
+
 
 
 
