@@ -1223,13 +1223,13 @@ img {
   }
   
   .achievement-card--1 {
-    top: 15%;
-    right: 10px;
+    top: 10%;
+    left: -10px;
   }
   
   .achievement-card--2 {
-    bottom: 15%;
-    left: 10px;
+    bottom: 7%;
+    right: -10px;
   }
 }
 
@@ -1271,8 +1271,8 @@ img {
 
 @media (max-width: 480px) {
   .achievement-card {
-   /* position: static;*/
-    margin: var(--space-4) 0;
+   /* position: static;
+    margin: var(--space-4) 0;*/
   }
   
   .about__image-wrapper {
@@ -3510,6 +3510,7 @@ img {
       padding-top: 120px;
     }
 }
+
 
 
 
