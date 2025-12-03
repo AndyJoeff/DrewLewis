@@ -2654,6 +2654,10 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: var(--space-16);
   align-items: start;
+grid-template-columns: 1fr;
+gap: var(--space-1);
+max-width: 600px;
+margin: auto;
 }
 
 /* ===== SECTION HEADER ===== */
@@ -2845,7 +2849,7 @@ img {
 @media (max-width: 968px) {
   .contact__content {
     grid-template-columns: 1fr;
-    gap: var(--space-12);
+    gap: var(--space-3);
   }
   
   .contact__form {
@@ -3522,6 +3526,7 @@ img {
       padding-top: 120px;
     }
 }
+
 
 
 
