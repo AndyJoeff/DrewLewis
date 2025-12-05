@@ -2181,6 +2181,10 @@ img {
   font-weight: 600;
 }
 
+project__dot{
+    color: var(--color-gray-300);
+}
+
 .project-card__role {
   /* background-color: var(--color-gray-100); */
   color: var(--color-gray-500);
@@ -3375,6 +3379,7 @@ margin: auto;
       padding-top: 120px;
     }
 }
+
 
 
 
