@@ -2249,7 +2249,7 @@ project__dot{
   font-size: var(--fs-base);
   line-height: 1.6;
   color: var(--color-gray-600);
-  /* margin-bottom: var(--space-6); */
+  margin-bottom: var(--space-6);
 }
 
 .project-card__details {
@@ -3379,6 +3379,7 @@ margin: auto;
       padding-top: 120px;
     }
 }
+
 
 
 
