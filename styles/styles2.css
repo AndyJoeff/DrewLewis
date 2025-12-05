@@ -2472,9 +2472,9 @@ img {
     padding: var(--space-1) var(--space-2);
   }
   
-  .project-card__details {
+  /*.project-card__details {
     padding: var(--space-4);
-  }
+  }*/
 }
 /* ===== CONTACT SECTION ===== */
 .contact {
@@ -3375,6 +3375,7 @@ margin: auto;
       padding-top: 120px;
     }
 }
+
 
 
 
